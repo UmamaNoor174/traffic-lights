@@ -1,4 +1,5 @@
-**Interactive Traffic Signal Detector** 🚦🖱️
+
+**Interactive Traffic Signal Detector** 🚦🖱️**
 A smart Computer Vision tool that identifies traffic light signals (Red, Yellow, Green) through manual pixel-point interaction. This project demonstrates color-space transformation (BGR to HSV) and event-driven programming using Python.
 
 📌 **Project Overview**
